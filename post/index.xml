@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lucky Onwuzurike&#39;s Homepage</title>
+    <link>https://luckenzo.github.io/post/</link>
+    <description>Recent content in Posts on Lucky Onwuzurike&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Lucky Onwuzurike</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Experimenting with SSL Vulnerabilities in Android Apps</title>
+      <link>https://luckenzo.github.io/post/wisec-15/</link>
+      <pubDate>Wed, 22 Jul 2015 16:09:29 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/post/wisec-15/</guid>
+      <description>&lt;p&gt;As the number of always-on, always-connected smartphones increase, so does the amount of personal and sensitive information they collect and transmit. Thus, it is crucial to secure traffic exchanged by these devices, especially considering that mobile users might connect to open Wi-Fi networks or even fake cell towers. The go-to protocol to secure network connection is HTTPS i.e., HTTP over SSL/TLS.&lt;/p&gt;
+
+&lt;p&gt;In the Android ecosystem, applications (apps for short), support HTTPS on sockets by relying on the android.net, android.webkit, java.net, javax.net, java.security, javax.security.cert, and org.apache.http packages of the Android SDK. These packages are used to create HTTP/HTTPS connections, administer and verify certificates and keys, and instantiate TrustManager and HostnameVerifier interfaces, which are in turn used in the SSL certificate validation logic.&lt;/p&gt;
+
+&lt;p&gt;A TrustManager manages the certificates of all Certificate Authorities (CAs) used to assess a certificate’s validity. Only root CAs trusted by Android are contained in the default TrustManager. A HostnameVerifier performs hostname verification whenever a URL’s hostname does not match the hostname in the peer’s identification credentials.&lt;/p&gt;
+
+&lt;p&gt;While browsers provide users with visual feedback that their communication is secured (via the lock symbol) as well as certificate validation issues, non-browser apps do so less extensively and effectively. This shortcoming motivates the need to scrutinize the security of network connections used by apps to transmit user sensitive data. We found that some of the most popular Android apps insufficiently secure these connections, putting users’ passwords, credit card details and chat messages at risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2382204&#34; target=&#34;_blank&#34;&gt;Previous&lt;/a&gt; &lt;a href=&#34;https://dl.acm.org/citation.cfm?id=2382205&#34; target=&#34;_blank&#34;&gt;studies&lt;/a&gt; show that apps are often vulnerable to man-in-the-middle (MitM) attacks; hence, we set out to investigate whether vulnerabilities that lead to these attacks are still present. We selected 100 popular apps (i.e., downloaded at least 10 million times) that request full network access permission. At the time of our study (Fall 2014), these 100 apps provide a sample of approximately 10% of apps downloaded at least 10 million times. To dynamically analyse these apps, we use &lt;a href=&#34;https://www.telerik.com/fiddler&#34; target=&#34;_blank&#34;&gt;Fiddler&lt;/a&gt; as a MitM proxy to read and modify their traffic. We considered an adversary that has control over the WiFi network users connect to, and also simulate three attack scenarios:&lt;/p&gt;
+
+&lt;p&gt;Scenario 1: the adversary has her certificate installed in users’ devices&lt;/p&gt;
+
+&lt;p&gt;Scenario 2: the adversary presents a self-signed certificate&lt;/p&gt;
+
+&lt;p&gt;Scenario 3: the adversary presents a certificate signed by a trusted CA but with a wrong common name (CN) and/or SubjectAltName&lt;/p&gt;
+
+&lt;p&gt;In Scenario 1, we simulated an advanced adversary that has access to compromised CA certificates, and found 91 apps to be vulnerable to MitM attacks. In Scenarios 2 and 3 respectively, 23 and 29 apps were vulnerable while 20 were vulnerable in all 3 scenarios. The vulnerable apps leaked information such as login credentials, credit card details, chat messages, device information (IMEI and IMSI) etc. We also found 4 apps (4shared, Deezer, Duolingo and Pic Collage) that send login credentials unencrypted which implies any passive adversary could obtain these sensitive information. 4Shared initially sends the login credential as part of the GET URL, but this is now fixed after we reported it to the developers. Pic Collage also now employs HTTPS during user login. Whereas, Deezer hashes the password with a nonce. During the attacks, only three apps showed warnings that reflect the problem for secure connection failure was as a result of the server’s certificate. Poor visual warning does not make users aware of the threat they might be under whereas, an easily understandable visual warning might help users make better security decisions.&lt;/p&gt;
+
+&lt;p&gt;We also analysed the apps statically by decompiling the apps and analysing the classes with SSL-related code. We found the number of vulnerabilities reported by static analysis to conflict with the result of the dynamic analysis. On investigation, we noticed 9 apps were correctly reported as vulnerable by static analysis but not by dynamic analysis. This was due to inexhaustible user-action simulation, as 7 cases were in the Application Crash Reports for Android (ACRA) library. The ACRA library is used to automatically send crash reports so developers could analyse the cause of crash. Since we did not use the apps in a way that causes them to crash, apps that employed the library were not reported as vulnerable.&lt;/p&gt;
+
+&lt;p&gt;Our results show that even though there is more awareness of vulnerabilities in SSL implementations on apps, these vulnerabilities still exist even in popular apps. We reported all vulnerabilities we found in each app to its developers. Our work is published at the ACM Conference on Security and Privacy in Wireless and Mobile Networks (&lt;a href=&#34;http://www.sigsac.org/wisec/WiSec2015/&#34; target=&#34;_blank&#34;&gt;ACM WiSec 2015&lt;/a&gt;) and is available from &lt;a href=&#34;http://arxiv.org/abs/1505.00589&#34; target=&#34;_blank&#34;&gt;Arxiv&lt;/a&gt;.
+This article is also published on &lt;a href=&#34;https://www.benthamsgaze.org/2015/08/20/experimenting-with-ssl-vulnerabilities-in-android-apps/&#34; target=&#34;_blank&#34;&gt;Bentham’s Gaze&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

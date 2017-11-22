@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Lucky Onwuzurike&#39;s Homepage</title>
+    <link>https://luckenzo.github.io/publication/</link>
+    <description>Recent content in Publications on Lucky Onwuzurike&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Lucky Onwuzurike</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Measuring, Characterizing, and Detecting Facebook Like Farms</title>
+      <link>https://luckenzo.github.io/publication/facebook-tops-17/</link>
+      <pubDate>Wed, 04 Oct 2017 17:14:35 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/facebook-tops-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models</title>
+      <link>https://luckenzo.github.io/publication/mamadroid-ndss-17/</link>
+      <pubDate>Wed, 22 Feb 2017 17:13:37 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/mamadroid-ndss-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Analysis of Popular Anonymous, Ephemeral, and End-to-End Encrypted Apps</title>
+      <link>https://luckenzo.github.io/publication/privapps-wisec-16/</link>
+      <pubDate>Mon, 18 Jul 2016 18:04:52 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/privapps-wisec-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combating Fraud in Online Social Networks: Detecting Stealthy Facebook Like Farms</title>
+      <link>https://luckenzo.github.io/publication/facebook-unpub/</link>
+      <pubDate>Sun, 22 May 2016 18:32:08 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/facebook-unpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental Analysis of Popular Anonymous, Ephemeral, and End-to-End Encrypted Apps</title>
+      <link>https://luckenzo.github.io/publication/privapps-ueop-16/</link>
+      <pubDate>Mon, 22 Feb 2016 17:15:22 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/privapps-ueop-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danger is my middle name: experimenting with SSL vulnerabilities in Android apps</title>
+      <link>https://luckenzo.github.io/publication/danger-wisec-15/</link>
+      <pubDate>Mon, 22 Jun 2015 17:15:03 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/danger-wisec-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

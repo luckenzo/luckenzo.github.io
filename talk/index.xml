@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Lucky Onwuzurike&#39;s Homepage</title>
+    <link>https://luckenzo.github.io/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Lucky Onwuzurike&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Lucky Onwuzurike</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Experimental Analysis of Popular Anonymous, Ephemeral, and End-to-End Encrypted Apps</title>
+      <link>https://luckenzo.github.io/talk/wisec-16/</link>
+      <pubDate>Thu, 21 Jul 2016 14:30:52 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/wisec-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danger is my middle name: Experimenting with SSL Vulnerabilities in Android Apps</title>
+      <link>https://luckenzo.github.io/talk/google-16/</link>
+      <pubDate>Tue, 19 Apr 2016 21:09:03 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/google-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danger is my middle name: Experimenting with SSL Vulnerabilities in Android Apps</title>
+      <link>https://luckenzo.github.io/talk/wisec-15/</link>
+      <pubDate>Thu, 25 Jun 2015 20:59:04 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/wisec-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
