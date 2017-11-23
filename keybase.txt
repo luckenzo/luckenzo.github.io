@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/luckenzo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://luckenzo.github.io
+  * I am luckenzo (https://keybase.io/luckenzo) on keybase.
+  * I have a public key ASCXVV2ZeZdiw6s8CZJpvBPR6nMv1_Dz9uW0__IxJVKe5wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012097555d99799762c3ab3c099269bc13d1ea732fd7f0f3f6e5b4fff23125529ee70a",
+      "host": "keybase.io",
+      "kid": "012097555d99799762c3ab3c099269bc13d1ea732fd7f0f3f6e5b4fff23125529ee70a",
+      "uid": "63ffbe479906bc7ac818e6242b9e0219",
+      "username": "luckenzo"
+    },
+    "merkle_root": {
+      "ctime": 1511379629,
+      "hash": "011b0960151a0e01d1e6fb2081ac7db94cb896866ecc373398e7ffc0bb2466019e62afd60f1d8587ae97b8c6bfc89cb8a05d01ec4096710163bca36aeae24afd",
+      "hash_meta": "e285a8c5907d2e11e96f4a1daca78babdfb10789cc80bab3101c3c1dc0bdea89",
+      "seqno": 1734970
+    },
+    "service": {
+      "hostname": "luckenzo.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1511379671,
+  "expire_in": 504576000,
+  "prev": "14e42d9218d4424cda6d3ea5bb6d2e3063af58e3103966506ea570a2fa9d014f",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgl1VdmXmXYsOrPAmSabwT0epzL9fw8/bltP/yMSVSnucKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTc1NTVkOTk3OTk3NjJjM2FiM2MwOTkyNjliYzEzZDFlYTczMmZkN2YwZjNmNmU1YjRmZmYyMzEyNTUyOWVlNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTc1NTVkOTk3OTk3NjJjM2FiM2MwOTkyNjliYzEzZDFlYTczMmZkN2YwZjNmNmU1YjRmZmYyMzEyNTUyOWVlNzBhIiwidWlkIjoiNjNmZmJlNDc5OTA2YmM3YWM4MThlNjI0MmI5ZTAyMTkiLCJ1c2VybmFtZSI6Imx1Y2tlbnpvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTExMzc5NjI5LCJoYXNoIjoiMDExYjA5NjAxNTFhMGUwMWQxZTZmYjIwODFhYzdkYjk0Y2I4OTY4NjZlY2MzNzMzOThlN2ZmYzBiYjI0NjYwMTllNjJhZmQ2MGYxZDg1ODdhZTk3YjhjNmJmYzg5Y2I4YTA1ZDAxZWM0MDk2NzEwMTYzYmNhMzZhZWFlMjRhZmQiLCJoYXNoX21ldGEiOiJlMjg1YThjNTkwN2QyZTExZTk2ZjRhMWRhY2E3OGJhYmRmYjEwNzg5Y2M4MGJhYjMxMDFjM2MxZGMwYmRlYTg5Iiwic2Vxbm8iOjE3MzQ5NzB9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibHVja2Vuem8uZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzYifSwiY3RpbWUiOjE1MTEzNzk2NzEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMTRlNDJkOTIxOGQ0NDI0Y2RhNmQzZWE1YmI2ZDJlMzA2M2FmNThlMzEwMzk2NjUwNmVhNTcwYTJmYTlkMDE0ZiIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAPKmf1UYFAGnHGAzjrTJeTGpmtGb4fAs6zpKzuRECGsAxpQ8HsfdY/HojkaXp3eCAsNZXrcA758mFU/5BhvHQ2oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCDntpfFI4SytecjZC/lR4e0+cvwtJgNNWJZ9Ll1vigPvKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/luckenzo
+
+==================================================================
