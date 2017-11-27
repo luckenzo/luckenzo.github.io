@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models (Extended Version)</title>
+      <link>https://luckenzo.github.io/publication/mamadroid-unpub/</link>
+      <pubDate>Mon, 20 Nov 2017 16:45:48 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/mamadroid-unpub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Measuring, Characterizing, and Detecting Facebook Like Farms</title>
       <link>https://luckenzo.github.io/publication/facebook-tops-17/</link>
       <pubDate>Wed, 04 Oct 2017 17:14:35 +0000</pubDate>
