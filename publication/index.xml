@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Family of Droids – Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>
+      <link>https://luckenzo.github.io/publication/chimp/</link>
+      <pubDate>Sun, 15 Jul 2018 12:14:55 +0100</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/chimp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models (Extended Version)</title>
       <link>https://luckenzo.github.io/publication/mamadroid-unpub/</link>
       <pubDate>Mon, 20 Nov 2017 16:45:48 +0000</pubDate>
