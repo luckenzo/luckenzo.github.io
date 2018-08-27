@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Family of Droids -- Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>
+      <link>https://luckenzo.github.io/talk/chimp-pst/</link>
+      <pubDate>Thu, 23 Aug 2018 21:00:04 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/chimp-pst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Family of Droids -- Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>
+      <link>https://luckenzo.github.io/talk/chimp-infosec/</link>
+      <pubDate>Thu, 23 Aug 2018 20:59:04 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/chimp-infosec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Family of Droids – Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>
       <link>https://luckenzo.github.io/publication/chimp/</link>
       <pubDate>Sun, 15 Jul 2018 12:14:55 +0100</pubDate>
