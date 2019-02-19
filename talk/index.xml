@@ -6,9 +6,18 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Lucky Onwuzurike&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Lucky Onwuzurike</copyright>
+    <copyright>&amp;copy; 2019 Lucky Onwuzurike</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Measuring and Mitigating Security and Privacy Issues on Android Applications</title>
+      <link>https://luckenzo.github.io/talk/phd-talk/</link>
+      <pubDate>Thu, 15 Nov 2018 20:59:04 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/phd-talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Family of Droids -- Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>

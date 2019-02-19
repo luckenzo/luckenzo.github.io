@@ -6,9 +6,36 @@
     <description>Recent content in Lucky Onwuzurike&#39;s Homepage on Lucky Onwuzurike&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Lucky Onwuzurike</copyright>
+    <copyright>&amp;copy; 2019 Lucky Onwuzurike</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models (Extended Version)</title>
+      <link>https://luckenzo.github.io/publication/mamadroid-tops-19/</link>
+      <pubDate>Mon, 18 Feb 2019 16:45:48 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/mamadroid-tops-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Mitigating Security and Privacy Issues on Android Applications</title>
+      <link>https://luckenzo.github.io/publication/thesis/</link>
+      <pubDate>Wed, 23 Jan 2019 16:45:48 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring and Mitigating Security and Privacy Issues on Android Applications</title>
+      <link>https://luckenzo.github.io/talk/phd-talk/</link>
+      <pubDate>Thu, 15 Nov 2018 20:59:04 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/talk/phd-talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Family of Droids -- Android Malware Detection via Behavioral Modeling: Static vs Dynamic Analysis</title>
@@ -38,15 +65,6 @@
     </item>
     
     <item>
-      <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models (Extended Version)</title>
-      <link>https://luckenzo.github.io/publication/mamadroid-unpub/</link>
-      <pubDate>Mon, 20 Nov 2017 16:45:48 +0000</pubDate>
-      
-      <guid>https://luckenzo.github.io/publication/mamadroid-unpub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Measuring, Characterizing, and Detecting Facebook Like Farms</title>
       <link>https://luckenzo.github.io/publication/facebook-tops-17/</link>
       <pubDate>Wed, 04 Oct 2017 17:14:35 +0000</pubDate>
@@ -61,7 +79,10 @@
       <pubDate>Wed, 22 Feb 2017 17:13:37 +0000</pubDate>
       
       <guid>https://luckenzo.github.io/publication/mamadroid-ndss-17/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Media Coverage:&lt;/strong&gt; &lt;a href=&#34;https://blog.acolyer.org/2017/03/09/mamadroid-detecting-android-malware-by-building-markov-chains-of-behavorial-models/&#34; target=&#34;_blank&#34;&gt;The Morning Paper&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Awards:&lt;/strong&gt; &lt;a href=&#34;https://csaw.engineering.nyu.edu/research/csaw17-applied-research-winners&#34; target=&#34;_blank&#34;&gt;CSAW Europe Applied Research&lt;/a&gt;, 2nd Place (out of 128 papers)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -146,15 +167,6 @@ This article is also published on &lt;a href=&#34;https://www.benthamsgaze.org/2
       <pubDate>Thu, 25 Jun 2015 20:59:04 +0000</pubDate>
       
       <guid>https://luckenzo.github.io/talk/wisec-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Danger is my middle name: experimenting with SSL vulnerabilities in Android apps</title>
-      <link>https://luckenzo.github.io/publication/danger-wisec-15/</link>
-      <pubDate>Mon, 22 Jun 2015 17:15:03 +0000</pubDate>
-      
-      <guid>https://luckenzo.github.io/publication/danger-wisec-15/</guid>
       <description></description>
     </item>
     
