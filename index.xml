@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Factors Driving Users to Use Unsecured Wi-Fi: Evidence in the Wild</title>
+      <link>https://luckenzo.github.io/publication/mywifi/</link>
+      <pubDate>Mon, 08 Apr 2019 20:27:48 +0000</pubDate>
+      
+      <guid>https://luckenzo.github.io/publication/mywifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MaMaDroid: Detecting Android Malware by Building Markov Chains of Behavioral Models (Extended Version)</title>
       <link>https://luckenzo.github.io/publication/mamadroid-tops-19/</link>
       <pubDate>Mon, 18 Feb 2019 16:45:48 +0000</pubDate>
@@ -95,7 +104,7 @@
     </item>
     
     <item>
-      <title>Experimental Analysis of Popular Anonymous, Ephemeral, and End-to-End Encrypted Apps</title>
+      <title>POSTER: Experimental Analysis of Popular Anonymous, Ephemeral, and End-to-End Encrypted Apps</title>
       <link>https://luckenzo.github.io/publication/privapps-wisec-16/</link>
       <pubDate>Mon, 18 Jul 2016 18:04:52 +0000</pubDate>
       
@@ -159,15 +168,6 @@
 &lt;p&gt;Our results show that even though there is more awareness of vulnerabilities in SSL implementations on apps, these vulnerabilities still exist even in popular apps. We reported all vulnerabilities we found in each app to its developers. Our work is published at the ACM Conference on Security and Privacy in Wireless and Mobile Networks (&lt;a href=&#34;http://www.sigsac.org/wisec/WiSec2015/&#34; target=&#34;_blank&#34;&gt;ACM WiSec 2015&lt;/a&gt;) and is available from &lt;a href=&#34;http://arxiv.org/abs/1505.00589&#34; target=&#34;_blank&#34;&gt;Arxiv&lt;/a&gt;.
 This article is also published on &lt;a href=&#34;https://www.benthamsgaze.org/2015/08/20/experimenting-with-ssl-vulnerabilities-in-android-apps/&#34; target=&#34;_blank&#34;&gt;Bentham’s Gaze&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Danger is my middle name: Experimenting with SSL Vulnerabilities in Android Apps</title>
-      <link>https://luckenzo.github.io/talk/wisec-15/</link>
-      <pubDate>Thu, 25 Jun 2015 20:59:04 +0000</pubDate>
-      
-      <guid>https://luckenzo.github.io/talk/wisec-15/</guid>
-      <description></description>
     </item>
     
   </channel>
