@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://luckenzo.github.io/talk/qmul-talk/</loc>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://luckenzo.github.io/publication/mywifi/</loc>
       <lastmod>2019-04-08T20:27:48+00:00</lastmod>
     </url>
@@ -176,15 +185,6 @@
     
     <url>
     
-      <loc>https://luckenzo.github.io/talk/wisec-15/</loc>
-      <lastmod>2015-06-25T20:59:04+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://luckenzo.github.io/publication/danger-wisec-15/</loc>
       <lastmod>2015-06-22T17:15:03+00:00</lastmod>
     </url>
@@ -235,7 +235,7 @@
     <url>
     
       <loc>https://luckenzo.github.io/tags/android/</loc>
-      <lastmod>2019-04-08T20:27:48+00:00</lastmod>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -245,7 +245,7 @@
     <url>
     
       <loc>https://luckenzo.github.io/tags/android/</loc>
-      <lastmod>2019-04-08T20:27:48+00:00</lastmod>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -294,7 +294,7 @@
     <url>
     
       <loc>https://luckenzo.github.io/tags/malware/</loc>
-      <lastmod>2019-04-05T16:45:48+00:00</lastmod>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -334,7 +334,7 @@
     <url>
     
       <loc>https://luckenzo.github.io/tags/program-analysis/</loc>
-      <lastmod>2019-01-23T16:45:48+00:00</lastmod>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -364,7 +364,7 @@
     <url>
     
       <loc>https://luckenzo.github.io/tags/tls/</loc>
-      <lastmod>2019-01-23T16:45:48+00:00</lastmod>
+      <lastmod>2019-08-21T10:17:59+01:00</lastmod>
       <priority>0</priority>
     </url>
     
